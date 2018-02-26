@@ -1,1 +1,3 @@
-# Convolutional-Neural-Network_tensorflow
+# Convolutional_Neural_Network_tensorflow
+
+Work in progeress
