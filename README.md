@@ -1,3 +1,3 @@
 # Convolutional_Neural_Network_tensorflow
 
-Work in progeress
+Work in progress
